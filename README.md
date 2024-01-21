@@ -1,6 +1,6 @@
 # WB_global_inclusion_financial_insights
 
-<img width="150" alt="world_ppl" src="https://github.com/emilyaseitz/WB_global_inclusion_financial_insights/assets/148172249/8610077c-5339-4463-9246-1eca38a6bca8">
+<img width="300" alt="world_ppl" src="https://github.com/emilyaseitz/WB_global_inclusion_financial_insights/assets/148172249/8610077c-5339-4463-9246-1eca38a6bca8">
 
 #Objective
 
