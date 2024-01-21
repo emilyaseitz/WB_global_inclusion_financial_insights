@@ -12,3 +12,11 @@ Survey questions pertain to socioeconomic variables related to education levels,
 Global Financial Inclusion (Global Findex) Database 2021
 
 Microdata from the World Bank
+
+#Tools
+
+pandas
+numpy
+seaborn
+matplotlib
+statmodels
