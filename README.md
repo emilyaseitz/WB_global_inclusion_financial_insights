@@ -15,8 +15,14 @@ Microdata from the World Bank
 
 #Tools
 
+jupyter notebooks
+
 pandas
+
 numpy
+
 seaborn
+
 matplotlib
+
 statmodels
