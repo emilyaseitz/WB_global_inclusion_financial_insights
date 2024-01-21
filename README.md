@@ -17,12 +17,14 @@ Microdata from the World Bank
 
 jupyter notebooks
 
-pandas
+pandas for data anlalysis
 
-numpy
+numpy for calcs and creating arrays and matrices
 
-seaborn
+seaborn for exploratory analysis & visualization
 
-matplotlib
+matplotlib for visualization
 
-statmodels
+bokeh & plotly for interactive plots
+
+statmodels for statistical computations including descriptive statistics.
