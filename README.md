@@ -31,4 +31,4 @@ statmodels for statistical computations including descriptive statistics.
 
 # Presentation
 
-https://public.tableau.com/views/GlobalFinancialInclusionProject/GlobalInclusionTrends?:language=en-US&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/GlobalFinancialInclusionProject/GlobalInclusionTrends?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
